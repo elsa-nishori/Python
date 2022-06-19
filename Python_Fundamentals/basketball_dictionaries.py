@@ -94,5 +94,4 @@ team_list = [
     "team": "Chicago Bullws"
     }
 ]
-
 print(Player.get_team(team_list))
